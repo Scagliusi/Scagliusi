@@ -49,7 +49,7 @@ Profissional dedicado a traduzir dados em informações estratégicas e insights
 <br><br> <!-- Espaço necessário para quebrar a linha -->
 
 ### Experience
-- :bar_chart: Data Analyst (estágio) 02/2025 - Atualmente
+- :bar_chart: Data Analyst (estágio) 02/2025 - 02/2026
 
 
 ### Education
